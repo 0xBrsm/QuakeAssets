@@ -1,4 +1,4 @@
-# QuakeMods Assets
+# QuakeAssets Archive
 
 Curated Quake 1 / NetQuake asset archives used by NexQuake quickstart catalogs.
 
